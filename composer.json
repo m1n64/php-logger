@@ -1,0 +1,17 @@
+{
+    "name": "vasqo/logger",
+    "description": "Customizable library for log your data",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Vasqo\\Logger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kirill Sakharov"
+        }
+    ],
+    "require": {}
+}
