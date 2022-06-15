@@ -1,6 +1,7 @@
 {
     "name": "vasqo/logger",
     "version": "1.0.0",
+    "minimum-stability": "stable",
     "description": "Customizable library for log your data",
     "type": "library",
     "license": "MIT",
